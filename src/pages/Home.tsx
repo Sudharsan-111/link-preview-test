@@ -1,5 +1,5 @@
 import React from "react";
-import SEO from "../component/SEO";
+// import SEO from "../component/SEO";
 import { Helmet } from "react-helmet";
 
 const Home: React.FC = () => {
